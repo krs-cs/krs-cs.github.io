@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: teehee
 description: teehee
+author:
+  name: woof
+highlighter: rouge
+theme: minima
