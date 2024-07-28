@@ -1,6 +1,6 @@
 # Yeehaw
 
-Woof woof woof.  <! -- Default Homepage -->
+Woof woof woof.  <!-- Default Homepage-->
 
 - Yeehaw!
 - Yeehaw!
