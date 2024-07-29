@@ -1,4 +1,4 @@
-# Yeehaw
+# Yeehaw Homepage Title
 
 Woof woof woof.  <!-- Default Homepage-->
 

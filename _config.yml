@@ -1,6 +1,6 @@
 # _config.yml
-title: teehee
-description: teehee
+title: teehee title
+description: teehee description
 highlighter: rouge
 theme: minima
 kramdown:
