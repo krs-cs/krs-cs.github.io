@@ -1,12 +1,11 @@
 # _config.yml
-theme: jekyll-theme-minimal
 title: teehee
 description: teehee
 highlighter: rouge
 theme: minima
 kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+	math_engine: mathjax
+	syntax_highlighter: rouge
 
 nav:
 	- home: /
